@@ -1,4 +1,4 @@
-# Console-Logic-simulator-Si-Vision-project
+#Si-Vision-project/Logic simulator
  
 ### How to use
 1. write the gate following by the two input nodes and the output node (example: AND A B C)
